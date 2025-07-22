@@ -1,1 +1,1 @@
-hello every one
+this is terry's own website
