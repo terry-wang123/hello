@@ -81,7 +81,13 @@ Hey bro
     <li data-src="music.mp3" class="active">🎶 歌曲 1</li>
     <li data-src="music1.mp3">🎶 歌曲 2</li>
     <li data-src="music2.mp3">🎶 歌曲 3</li>
-    <li data-src="music3.mp3">🎶 歌曲 3</li>
+    <li data-src="music3.mp3">🎶 歌曲 4</li>
+    <li data-src="music4.mp3">🎶 歌曲 5</li>
+    <li data-src="music5.mp3">🎶 歌曲 6</li>
+    <li data-src="music6.mp3">🎶 歌曲 7</li>
+    <li data-src="music7.mp3">🎶 歌曲 8</li>
+    <li data-src="music8.mp3">🎶 歌曲 9</li>
+    <li data-src="music9.mp3">🎶 歌曲 10</li>
   </ul>
 
   <script>
