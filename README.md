@@ -1,6 +1,4 @@
 Hey bro
-<!DOCTYPE html>
-<html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
   <title>多首歌播放器</title>
