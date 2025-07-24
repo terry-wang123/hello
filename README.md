@@ -23,7 +23,6 @@ Hey bro
       padding: 10px;
       cursor: pointer;
       color: #0066cc;
-<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
